@@ -195,6 +195,7 @@ int main(void)
 
 ##  layout Diagram 
 
+![syyy](https://user-images.githubusercontent.com/93427224/199168935-58a96db8-58c9-4c2b-a122-ffb849ff14ce.png)
 
 
 ## Result :
